@@ -1,4 +1,5 @@
-# GSlider
+
+# GSlider	 [![](https://jitpack.io/v/mojirzg/GSlider.svg)](https://jitpack.io/#mojirzg/GSlider)
 This is a slide show library written in **kotlin**.
 
 Using this Library you can simply turn any ImageView into a Slide Show, it only supports links.
@@ -11,7 +12,7 @@ With a little help from [Glide](https://github.com/bumptech/glide) and [Anko](ht
 Step 1 : Add the JitPack repository to your build file
 Add it in your root build.gradle at the end of repositories:
 
-:small_orange_diamond: **Gradle:**
+**Gradle:**
 
 ```
 	allprojects {
@@ -21,7 +22,7 @@ Add it in your root build.gradle at the end of repositories:
 		}
 	}
 ```
-:small_blue_diamond: **maven:**
+**maven:**
 
 ```
 	<repositories>
@@ -34,7 +35,7 @@ Add it in your root build.gradle at the end of repositories:
 
 Step 2 : Add the dependency
 
-:small_orange_diamond: **Gradle:**
+**Gradle:**
 
 ```
 	dependencies {
@@ -42,7 +43,7 @@ Step 2 : Add the dependency
 	}
 ```
 
-:small_blue_diamond: **maven:**
+**maven:**
 
 ```
 	<dependency>
